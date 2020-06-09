@@ -1,2 +1,2 @@
 # rules
-Rules to unblock NeteaseMusic for Surge3 and [Surgio](https://github.com/geekdada/surgio)
+[Surgio](https://github.com/geekdada/surgio) and Surge3 Rules to unblock NeteaseMusic and other services
